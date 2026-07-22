@@ -1,0 +1,54 @@
+.main {
+    background-color: #F7F9FC;
+}
+
+h1 {
+    color: #0066CC;
+    text-align:center;
+}
+
+.stButton>button{
+    background-color:#0066CC;
+    color:white;
+    font-size:18px;
+    border-radius:10px;
+    height:55px;
+    width:100%;
+}
+
+.stButton>button:hover{
+    background:#004999;
+}
+
+.block-container{
+    padding-top:2rem;
+}
+
+div[data-testid="stMetric"]{
+    background:#FFFFFF;
+    border-radius:10px;
+    padding:15px;
+    box-shadow:0px 0px 10px #DDDDDD;
+}
+
+/* Metric Card */
+div[data-testid="stMetric"] {
+    background: white;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #d3d3d3;
+}
+
+/* Metric Label */
+div[data-testid="stMetricLabel"] {
+    color: black !important;
+    font-weight: bold;
+}
+
+/* Metric Value */
+div[data-testid="stMetricValue"] {
+    color: #0066CC !important;
+    font-size: 30px !important;
+    font-weight: bold;
+}

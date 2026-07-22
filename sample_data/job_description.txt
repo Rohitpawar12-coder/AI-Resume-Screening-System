@@ -1,0 +1,72 @@
+Job Title: AI & Machine Learning Engineer
+
+Company: ABC Technologies Pvt. Ltd.
+
+Job Summary:
+We are looking for a passionate AI & Machine Learning Engineer to join our AI team. The ideal candidate should have strong knowledge of Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and Python programming. The candidate will be responsible for developing intelligent applications, training machine learning models, analyzing datasets, and deploying AI solutions.
+
+Required Technical Skills:
+Python
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Data Science
+SQL
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+Keras
+OpenCV
+Natural Language Processing (NLP)
+Computer Vision
+Feature Engineering
+Data Preprocessing
+Model Training
+Model Evaluation
+Predictive Modeling
+Data Visualization
+Matplotlib
+Seaborn
+Power BI
+Git
+Jupyter Notebook
+
+Preferred Skills:
+Flask
+Streamlit
+REST API
+Docker
+AWS Basics
+Google Cloud Basics
+
+Educational Qualification:
+Bachelor's Degree in Computer Science, Information Technology, Artificial Intelligence, Data Science, Computer Engineering, or a related field.
+
+Experience:
+Freshers or candidates with internship experience are encouraged to apply.
+
+Roles and Responsibilities:
+Develop Machine Learning and Deep Learning models.
+Analyze, clean, and preprocess datasets.
+Perform feature engineering and model optimization.
+Train, test, and evaluate predictive models.
+Develop AI-powered applications.
+Implement Computer Vision and NLP solutions.
+Work with SQL databases.
+Create dashboards and reports using Power BI.
+Collaborate with software development teams.
+Deploy AI models into production environments.
+Maintain technical documentation.
+
+Soft Skills:
+Problem Solving
+Analytical Thinking
+Communication Skills
+Teamwork
+Time Management
+Critical Thinking
+Adaptability
+
+Keywords:
+Python, Artificial Intelligence, Machine Learning, Deep Learning, Data Science, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV, NLP, Computer Vision, Power BI, Feature Engineering, Data Preprocessing, Model Training, Model Evaluation, Predictive Modeling, Data Visualization, Flask, Streamlit, Git

@@ -1,0 +1,991 @@
+{
+    "AI & Machine Learning": {
+        "AI Engineer": {
+            "description": "Design, develop, and deploy artificial intelligence and machine learning solutions for real-world applications.",
+            "required_skills": [
+                "Python",
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Deep Learning",
+                "Data Structures",
+                "Algorithms"
+            ],
+            "tools_and_libraries": [
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "recommended_skills": [
+                "Computer Vision",
+                "Natural Language Processing",
+                "Generative AI",
+                "Git",
+                "Docker",
+                "REST API"
+            ]
+        },
+
+        "Machine Learning Engineer": {
+            "description": "Build, train, evaluate, optimize, and deploy machine learning models for production applications.",
+            "required_skills": [
+                "Python",
+                "Machine Learning",
+                "Supervised Learning",
+                "Unsupervised Learning",
+                "Feature Engineering",
+                "Model Evaluation"
+            ],
+            "tools_and_libraries": [
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "XGBoost",
+                "LightGBM"
+            ],
+            "recommended_skills": [
+                "TensorFlow",
+                "PyTorch",
+                "MLflow",
+                "Docker",
+                "Git",
+                "FastAPI"
+            ]
+        },
+
+        "Deep Learning Engineer": {
+            "description": "Develop deep learning solutions using neural networks and modern deep learning frameworks.",
+            "required_skills": [
+                "Python",
+                "Deep Learning",
+                "Neural Networks",
+                "Artificial Neural Networks",
+                "CNN",
+                "RNN"
+            ],
+            "tools_and_libraries": [
+                "TensorFlow",
+                "PyTorch",
+                "Keras",
+                "NumPy",
+                "Pandas"
+            ],
+            "recommended_skills": [
+                "LSTM",
+                "Transformers",
+                "GANs",
+                "Computer Vision",
+                "NLP"
+            ]
+        },
+
+        "Generative AI Engineer": {
+            "description": "Develop generative AI applications using large language models, retrieval augmented generation, and foundation models.",
+            "required_skills": [
+                "Python",
+                "Generative AI",
+                "Large Language Models",
+                "LLM",
+                "Prompt Engineering",
+                "RAG"
+            ],
+            "tools_and_libraries": [
+                "LangChain",
+                "LlamaIndex",
+                "Hugging Face",
+                "Transformers",
+                "OpenAI API"
+            ],
+            "recommended_skills": [
+                "Vector Databases",
+                "Embeddings",
+                "FAISS",
+                "Pinecone",
+                "ChromaDB",
+                "Fine-Tuning"
+            ]
+        },
+
+        "NLP Engineer": {
+            "description": "Build natural language processing systems for text analysis, language understanding, and intelligent applications.",
+            "required_skills": [
+                "Python",
+                "Natural Language Processing",
+                "NLP",
+                "Text Processing",
+                "Machine Learning",
+                "Deep Learning"
+            ],
+            "tools_and_libraries": [
+                "NLTK",
+                "spaCy",
+                "Hugging Face",
+                "Transformers",
+                "BERT"
+            ],
+            "recommended_skills": [
+                "GPT",
+                "RAG",
+                "LLM",
+                "Sentiment Analysis",
+                "Named Entity Recognition"
+            ]
+        },
+
+        "Computer Vision Engineer": {
+            "description": "Develop computer vision systems for image processing, object detection, image classification, and visual recognition.",
+            "required_skills": [
+                "Python",
+                "Computer Vision",
+                "Image Processing",
+                "Deep Learning",
+                "Machine Learning",
+                "CNN"
+            ],
+            "tools_and_libraries": [
+                "OpenCV",
+                "TensorFlow",
+                "PyTorch",
+                "Keras",
+                "Pillow"
+            ],
+            "recommended_skills": [
+                "YOLO",
+                "Object Detection",
+                "Image Segmentation",
+                "OCR",
+                "Face Recognition"
+            ]
+        },
+
+        "MLOps Engineer": {
+            "description": "Deploy, monitor, automate, and manage machine learning models and production ML systems.",
+            "required_skills": [
+                "Python",
+                "Machine Learning",
+                "MLOps",
+                "Model Deployment",
+                "Model Monitoring",
+                "CI/CD"
+            ],
+            "tools_and_libraries": [
+                "MLflow",
+                "Docker",
+                "Kubernetes",
+                "FastAPI",
+                "Git"
+            ],
+            "recommended_skills": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Kubeflow",
+                "DVC",
+                "Jenkins"
+            ]
+        }
+    },
+
+    "Data & Analytics": {
+        "Data Scientist": {
+            "description": "Analyze complex datasets, develop predictive models, and generate actionable insights using statistical and machine learning techniques.",
+            "required_skills": [
+                "Python",
+                "SQL",
+                "Statistics",
+                "Data Science",
+                "Machine Learning",
+                "Data Analysis"
+            ],
+            "tools_and_libraries": [
+                "Pandas",
+                "NumPy",
+                "Scikit-learn",
+                "Matplotlib",
+                "Seaborn"
+            ],
+            "recommended_skills": [
+                "Deep Learning",
+                "Power BI",
+                "Tableau",
+                "Feature Engineering",
+                "Predictive Modeling"
+            ]
+        },
+
+        "Data Analyst": {
+            "description": "Analyze business data, identify trends, create reports, and provide data-driven insights to support business decisions.",
+            "required_skills": [
+                "SQL",
+                "Excel",
+                "Data Analysis",
+                "Statistics",
+                "Data Visualization"
+            ],
+            "tools_and_libraries": [
+                "Microsoft Excel",
+                "Power BI",
+                "Tableau",
+                "Pandas",
+                "NumPy"
+            ],
+            "recommended_skills": [
+                "Python",
+                "DAX",
+                "Power Query",
+                "Matplotlib",
+                "Seaborn"
+            ]
+        },
+
+        "Data Engineer": {
+            "description": "Design, build, and maintain scalable data pipelines, data warehouses, and data processing systems.",
+            "required_skills": [
+                "Python",
+                "SQL",
+                "Data Engineering",
+                "ETL",
+                "Data Pipelines",
+                "Data Warehouse"
+            ],
+            "tools_and_libraries": [
+                "Apache Spark",
+                "PySpark",
+                "Apache Kafka",
+                "Apache Airflow",
+                "Hadoop"
+            ],
+            "recommended_skills": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Databricks",
+                "Docker"
+            ]
+        },
+
+        "Business Intelligence Analyst": {
+            "description": "Transform business data into meaningful dashboards, reports, and insights to support strategic decision-making.",
+            "required_skills": [
+                "SQL",
+                "Data Analysis",
+                "Business Intelligence",
+                "Data Visualization",
+                "Business Analytics"
+            ],
+            "tools_and_libraries": [
+                "Power BI",
+                "Tableau",
+                "Excel",
+                "DAX",
+                "Power Query"
+            ],
+            "recommended_skills": [
+                "Python",
+                "Pandas",
+                "Data Modeling",
+                "ETL"
+            ]
+        },
+
+        "Big Data Engineer": {
+            "description": "Develop scalable big data processing systems and distributed data pipelines.",
+            "required_skills": [
+                "Big Data",
+                "Python",
+                "SQL",
+                "Data Engineering",
+                "Data Pipelines"
+            ],
+            "tools_and_libraries": [
+                "Hadoop",
+                "HDFS",
+                "Apache Spark",
+                "PySpark",
+                "Kafka",
+                "Hive"
+            ],
+            "recommended_skills": [
+                "Databricks",
+                "AWS",
+                "Azure",
+                "GCP"
+            ]
+        }
+    },
+
+    "Software Development": {
+        "Software Engineer": {
+            "description": "Design, develop, test, and maintain scalable software applications and systems.",
+            "required_skills": [
+                "Programming",
+                "Data Structures",
+                "Algorithms",
+                "Object Oriented Programming",
+                "Software Development",
+                "Problem Solving"
+            ],
+            "tools_and_libraries": [
+                "Git",
+                "GitHub",
+                "Docker",
+                "REST API"
+            ],
+            "recommended_skills": [
+                "SQL",
+                "Linux",
+                "CI/CD",
+                "Agile",
+                "Unit Testing"
+            ]
+        },
+
+        "Python Developer": {
+            "description": "Develop software applications, APIs, automation systems, and backend services using Python.",
+            "required_skills": [
+                "Python",
+                "Object Oriented Programming",
+                "Data Structures",
+                "Algorithms",
+                "Problem Solving"
+            ],
+            "tools_and_libraries": [
+                "Django",
+                "Flask",
+                "FastAPI",
+                "REST API",
+                "Git"
+            ],
+            "recommended_skills": [
+                "SQL",
+                "PostgreSQL",
+                "MySQL",
+                "Docker",
+                "Linux"
+            ]
+        },
+
+        "Java Developer": {
+            "description": "Develop scalable enterprise applications and backend services using Java technologies.",
+            "required_skills": [
+                "Java",
+                "Object Oriented Programming",
+                "Data Structures",
+                "Algorithms",
+                "SQL"
+            ],
+            "tools_and_libraries": [
+                "Spring Boot",
+                "Spring",
+                "Hibernate",
+                "Maven",
+                "Git"
+            ],
+            "recommended_skills": [
+                "REST API",
+                "Microservices",
+                "Docker",
+                "AWS"
+            ]
+        },
+
+        "Backend Developer": {
+            "description": "Build secure, scalable, and reliable server-side applications and APIs.",
+            "required_skills": [
+                "Programming",
+                "Backend Development",
+                "REST API",
+                "SQL",
+                "Database"
+            ],
+            "tools_and_libraries": [
+                "Python",
+                "Java",
+                "Node.js",
+                "Django",
+                "FastAPI",
+                "Spring Boot"
+            ],
+            "recommended_skills": [
+                "Docker",
+                "Kubernetes",
+                "Microservices",
+                "Cloud Computing"
+            ]
+        },
+
+        "Frontend Developer": {
+            "description": "Build responsive and interactive user interfaces for web applications.",
+            "required_skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Frontend Development",
+                "Web Development"
+            ],
+            "tools_and_libraries": [
+                "React",
+                "Angular",
+                "Vue.js",
+                "Git"
+            ],
+            "recommended_skills": [
+                "TypeScript",
+                "REST API",
+                "Responsive Design",
+                "UI/UX"
+            ]
+        },
+
+        "Full Stack Developer": {
+            "description": "Develop complete web applications across frontend, backend, databases, and APIs.",
+            "required_skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Frontend Development",
+                "Backend Development",
+                "Database"
+            ],
+            "tools_and_libraries": [
+                "React",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "MySQL",
+                "Git"
+            ],
+            "recommended_skills": [
+                "TypeScript",
+                "Docker",
+                "REST API",
+                "Cloud Computing"
+            ]
+        }
+    },
+
+    "Web Development": {
+        "React Developer": {
+            "description": "Develop modern and responsive web applications using React and related frontend technologies.",
+            "required_skills": [
+                "JavaScript",
+                "React",
+                "HTML",
+                "CSS",
+                "Frontend Development"
+            ],
+            "tools_and_libraries": [
+                "React",
+                "Redux",
+                "Node.js",
+                "Git",
+                "npm"
+            ],
+            "recommended_skills": [
+                "TypeScript",
+                "REST API",
+                "Next.js",
+                "Responsive Design"
+            ]
+        },
+
+        "Node.js Developer": {
+            "description": "Build scalable backend applications and APIs using Node.js and JavaScript.",
+            "required_skills": [
+                "JavaScript",
+                "Node.js",
+                "Backend Development",
+                "REST API",
+                "Database"
+            ],
+            "tools_and_libraries": [
+                "Express.js",
+                "Node.js",
+                "MongoDB",
+                "PostgreSQL",
+                "Git"
+            ],
+            "recommended_skills": [
+                "Docker",
+                "Microservices",
+                "AWS",
+                "TypeScript"
+            ]
+        }
+    },
+
+    "Mobile Development": {
+        "Android Developer": {
+            "description": "Design and develop mobile applications for Android platforms.",
+            "required_skills": [
+                "Android Development",
+                "Java",
+                "Kotlin",
+                "Object Oriented Programming"
+            ],
+            "tools_and_libraries": [
+                "Android Studio",
+                "Kotlin",
+                "Java",
+                "Firebase",
+                "Git"
+            ],
+            "recommended_skills": [
+                "REST API",
+                "SQLite",
+                "Jetpack Compose"
+            ]
+        },
+
+        "Flutter Developer": {
+            "description": "Develop cross-platform mobile applications using Flutter and Dart.",
+            "required_skills": [
+                "Flutter",
+                "Dart",
+                "Mobile Application Development"
+            ],
+            "tools_and_libraries": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "Git"
+            ],
+            "recommended_skills": [
+                "REST API",
+                "State Management",
+                "SQLite"
+            ]
+        }
+    },
+
+    "Cloud Computing": {
+        "Cloud Engineer": {
+            "description": "Design, implement, and manage cloud infrastructure and cloud-based applications.",
+            "required_skills": [
+                "Cloud Computing",
+                "Linux",
+                "Networking",
+                "Virtualization"
+            ],
+            "tools_and_libraries": [
+                "AWS",
+                "Azure",
+                "GCP",
+                "Docker",
+                "Kubernetes"
+            ],
+            "recommended_skills": [
+                "Terraform",
+                "CI/CD",
+                "Python",
+                "Security"
+            ]
+        },
+
+        "AWS Cloud Engineer": {
+            "description": "Design and manage scalable cloud infrastructure and applications using Amazon Web Services.",
+            "required_skills": [
+                "AWS",
+                "Cloud Computing",
+                "Linux",
+                "Networking"
+            ],
+            "tools_and_libraries": [
+                "EC2",
+                "S3",
+                "Lambda",
+                "RDS",
+                "IAM",
+                "CloudFormation"
+            ],
+            "recommended_skills": [
+                "Docker",
+                "Kubernetes",
+                "Terraform",
+                "Python"
+            ]
+        }
+    },
+
+    "DevOps & Infrastructure": {
+        "DevOps Engineer": {
+            "description": "Automate software delivery, infrastructure management, and continuous integration and deployment processes.",
+            "required_skills": [
+                "DevOps",
+                "CI/CD",
+                "Linux",
+                "Git",
+                "Cloud Computing"
+            ],
+            "tools_and_libraries": [
+                "Docker",
+                "Kubernetes",
+                "Jenkins",
+                "Terraform",
+                "GitHub Actions"
+            ],
+            "recommended_skills": [
+                "AWS",
+                "Azure",
+                "Python",
+                "Ansible",
+                "Monitoring"
+            ]
+        },
+
+        "Site Reliability Engineer": {
+            "description": "Ensure reliability, scalability, availability, and performance of large-scale software systems.",
+            "required_skills": [
+                "SRE",
+                "Linux",
+                "Cloud Computing",
+                "Networking",
+                "Monitoring"
+            ],
+            "tools_and_libraries": [
+                "Kubernetes",
+                "Docker",
+                "Prometheus",
+                "Grafana",
+                "Terraform"
+            ],
+            "recommended_skills": [
+                "Python",
+                "Go",
+                "AWS",
+                "CI/CD"
+            ]
+        }
+    },
+
+    "Cybersecurity": {
+        "Cybersecurity Analyst": {
+            "description": "Monitor, detect, investigate, and respond to cybersecurity threats and security incidents.",
+            "required_skills": [
+                "Cybersecurity",
+                "Network Security",
+                "Information Security",
+                "Threat Detection"
+            ],
+            "tools_and_libraries": [
+                "SIEM",
+                "Splunk",
+                "Wireshark",
+                "Linux"
+            ],
+            "recommended_skills": [
+                "Python",
+                "Ethical Hacking",
+                "Incident Response",
+                "Cloud Security"
+            ]
+        },
+
+        "Ethical Hacker": {
+            "description": "Identify and assess security vulnerabilities in systems, networks, and applications through authorized security testing.",
+            "required_skills": [
+                "Cybersecurity",
+                "Ethical Hacking",
+                "Penetration Testing",
+                "Network Security"
+            ],
+            "tools_and_libraries": [
+                "Kali Linux",
+                "Metasploit",
+                "Burp Suite",
+                "Nmap",
+                "Wireshark"
+            ],
+            "recommended_skills": [
+                "Python",
+                "Linux",
+                "Web Security",
+                "OWASP"
+            ]
+        }
+    },
+
+    "Database & Data Platforms": {
+        "SQL Developer": {
+            "description": "Design, develop, optimize, and maintain SQL queries, stored procedures, and database solutions.",
+            "required_skills": [
+                "SQL",
+                "Database",
+                "Database Design",
+                "Query Optimization"
+            ],
+            "tools_and_libraries": [
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "SQL Server"
+            ],
+            "recommended_skills": [
+                "Python",
+                "ETL",
+                "Data Modeling",
+                "Cloud Databases"
+            ]
+        },
+
+        "Database Administrator": {
+            "description": "Manage database systems, ensure performance, security, availability, backup, and recovery.",
+            "required_skills": [
+                "Database Administration",
+                "SQL",
+                "Database Security",
+                "Backup and Recovery"
+            ],
+            "tools_and_libraries": [
+                "MySQL",
+                "PostgreSQL",
+                "Oracle",
+                "SQL Server"
+            ],
+            "recommended_skills": [
+                "Linux",
+                "Cloud Computing",
+                "Database Monitoring"
+            ]
+        }
+    },
+
+    "Software Testing & QA": {
+        "QA Engineer": {
+            "description": "Design and execute software testing processes to ensure application quality and reliability.",
+            "required_skills": [
+                "Software Testing",
+                "Quality Assurance",
+                "Test Cases",
+                "Bug Tracking",
+                "Manual Testing"
+            ],
+            "tools_and_libraries": [
+                "Selenium",
+                "Jira",
+                "Postman",
+                "Git"
+            ],
+            "recommended_skills": [
+                "Automation Testing",
+                "Python",
+                "Java",
+                "API Testing"
+            ]
+        },
+
+        "Automation Test Engineer": {
+            "description": "Develop automated testing frameworks and scripts to validate software applications.",
+            "required_skills": [
+                "Automation Testing",
+                "Software Testing",
+                "Test Automation",
+                "Programming"
+            ],
+            "tools_and_libraries": [
+                "Selenium",
+                "PyTest",
+                "JUnit",
+                "TestNG",
+                "Jenkins"
+            ],
+            "recommended_skills": [
+                "Python",
+                "Java",
+                "API Testing",
+                "CI/CD"
+            ]
+        }
+    },
+
+    "Networking": {
+        "Network Engineer": {
+            "description": "Design, configure, maintain, and troubleshoot computer networks and network infrastructure.",
+            "required_skills": [
+                "Networking",
+                "TCP/IP",
+                "Routing",
+                "Switching",
+                "Network Security"
+            ],
+            "tools_and_libraries": [
+                "Cisco",
+                "Cisco IOS",
+                "Wireshark",
+                "Linux"
+            ],
+            "recommended_skills": [
+                "CCNA",
+                "Firewall",
+                "VPN",
+                "Cloud Networking"
+            ]
+        }
+    },
+
+    "Systems & IT Support": {
+        "System Administrator": {
+            "description": "Manage and maintain IT systems, servers, operating systems, and infrastructure.",
+            "required_skills": [
+                "System Administration",
+                "Linux",
+                "Windows Server",
+                "Networking",
+                "Troubleshooting"
+            ],
+            "tools_and_libraries": [
+                "Active Directory",
+                "PowerShell",
+                "Bash",
+                "VMware"
+            ],
+            "recommended_skills": [
+                "Cloud Computing",
+                "Cybersecurity",
+                "Docker"
+            ]
+        },
+
+        "IT Support Engineer": {
+            "description": "Provide technical support, troubleshoot hardware and software issues, and maintain IT systems.",
+            "required_skills": [
+                "IT Support",
+                "Troubleshooting",
+                "Networking",
+                "Windows",
+                "Linux"
+            ],
+            "tools_and_libraries": [
+                "Active Directory",
+                "PowerShell",
+                "Ticketing Systems"
+            ],
+            "recommended_skills": [
+                "Cloud Computing",
+                "Cybersecurity",
+                "Hardware Support"
+            ]
+        }
+    },
+
+    "UI/UX & Product Design": {
+        "UI/UX Designer": {
+            "description": "Design intuitive, accessible, and user-friendly digital experiences and interfaces.",
+            "required_skills": [
+                "UI Design",
+                "UX Design",
+                "User Experience",
+                "Wireframing",
+                "Prototyping"
+            ],
+            "tools_and_libraries": [
+                "Figma",
+                "Adobe XD",
+                "Sketch",
+                "Adobe Photoshop"
+            ],
+            "recommended_skills": [
+                "User Research",
+                "Usability Testing",
+                "Interaction Design"
+            ]
+        }
+    },
+
+    "IT Project & Product Management": {
+        "IT Project Manager": {
+            "description": "Plan, manage, and deliver IT projects while coordinating teams, timelines, budgets, and stakeholders.",
+            "required_skills": [
+                "Project Management",
+                "IT Project Management",
+                "Agile",
+                "Scrum",
+                "Leadership"
+            ],
+            "tools_and_libraries": [
+                "Jira",
+                "Confluence",
+                "Microsoft Project",
+                "Trello"
+            ],
+            "recommended_skills": [
+                "Risk Management",
+                "Stakeholder Management",
+                "Communication"
+            ]
+        },
+
+        "Product Manager": {
+            "description": "Define product strategy, manage product development, and coordinate technical and business stakeholders.",
+            "required_skills": [
+                "Product Management",
+                "Product Strategy",
+                "Agile",
+                "Scrum",
+                "Market Research"
+            ],
+            "tools_and_libraries": [
+                "Jira",
+                "Confluence",
+                "Figma",
+                "Notion"
+            ],
+            "recommended_skills": [
+                "Data Analysis",
+                "SQL",
+                "User Research",
+                "Communication"
+            ]
+        }
+    },
+
+    "Blockchain & Web3": {
+        "Blockchain Developer": {
+            "description": "Develop decentralized applications, blockchain solutions, and smart contracts.",
+            "required_skills": [
+                "Blockchain",
+                "Web3",
+                "Smart Contracts",
+                "Cryptography"
+            ],
+            "tools_and_libraries": [
+                "Solidity",
+                "Ethereum",
+                "Web3.js",
+                "Hardhat",
+                "MetaMask"
+            ],
+            "recommended_skills": [
+                "JavaScript",
+                "Python",
+                "Node.js",
+                "DeFi"
+            ]
+        }
+    },
+
+    "Game Development": {
+        "Game Developer": {
+            "description": "Design and develop interactive games using game engines, programming, graphics, and physics.",
+            "required_skills": [
+                "Game Development",
+                "Programming",
+                "Object Oriented Programming",
+                "Game Design"
+            ],
+            "tools_and_libraries": [
+                "Unity",
+                "Unreal Engine",
+                "C#",
+                "C++"
+            ],
+            "recommended_skills": [
+                "3D Modeling",
+                "Game Physics",
+                "Blender",
+                "Git"
+            ]
+        }
+    }
+}

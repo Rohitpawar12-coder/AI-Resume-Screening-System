@@ -1,0 +1,299 @@
+{
+    "Programming Languages": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "R",
+        "PHP",
+        "Kotlin",
+        "Swift",
+        "Dart"
+    ],
+
+    "Artificial Intelligence & Machine Learning": {
+        "Artificial Intelligence": [
+            "AI"
+        ],
+        "Machine Learning": [
+            "ML"
+        ],
+        "Deep Learning": [
+            "DL"
+        ],
+        "Natural Language Processing": [
+            "NLP"
+        ],
+        "Computer Vision": [
+            "CV"
+        ],
+        "Generative AI": [
+            "GenAI",
+            "Gen AI"
+        ],
+        "Large Language Models": [
+            "LLM",
+            "LLMs"
+        ],
+        "Prompt Engineering": [
+            "Prompt Engineer"
+        ],
+        "Reinforcement Learning": [
+            "RL"
+        ],
+        "Supervised Learning": [],
+        "Unsupervised Learning": [],
+        "Feature Engineering": [],
+        "Model Evaluation": [],
+        "Predictive Modeling": [],
+        "Neural Networks": [],
+        "Artificial Neural Networks": [
+            "ANN"
+        ],
+        "Convolutional Neural Networks": [
+            "CNN"
+        ],
+        "Recurrent Neural Networks": [
+            "RNN"
+        ],
+        "Transformers": [],
+        "Transfer Learning": []
+    },
+
+    "AI & ML Libraries": [
+        "NumPy",
+        "Pandas",
+        "Scikit-learn",
+        "Scikit Learn",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "XGBoost",
+        "LightGBM",
+        "CatBoost",
+        "OpenCV",
+        "NLTK",
+        "spaCy",
+        "Hugging Face",
+        "Transformers",
+        "LangChain",
+        "LlamaIndex",
+        "FAISS",
+        "Pinecone",
+        "ChromaDB"
+    ],
+
+    "Data Science & Analytics": [
+        "Data Science",
+        "Data Analysis",
+        "Statistics",
+        "Data Visualization",
+        "Business Analytics",
+        "Business Intelligence",
+        "Data Mining",
+        "Big Data",
+        "Data Engineering",
+        "ETL",
+        "Data Pipelines",
+        "Data Warehouse",
+        "Data Modeling"
+    ],
+
+    "Data Visualization": [
+        "Power BI",
+        "Tableau",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "DAX",
+        "Power Query",
+        "Excel"
+    ],
+
+    "Databases": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "Oracle",
+        "SQL Server",
+        "MongoDB",
+        "SQLite",
+        "Redis",
+        "Cassandra",
+        "NoSQL"
+    ],
+
+    "Web Technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Node.js",
+        "Express.js",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Spring Boot",
+        "REST API",
+        "RESTful API"
+    ],
+
+    "Cloud Computing": [
+        "Cloud Computing",
+        "AWS",
+        "Amazon Web Services",
+        "Microsoft Azure",
+        "Azure",
+        "Google Cloud",
+        "GCP",
+        "EC2",
+        "S3",
+        "Lambda",
+        "RDS",
+        "Docker",
+        "Kubernetes"
+    ],
+
+    "DevOps": [
+        "DevOps",
+        "CI/CD",
+        "Jenkins",
+        "GitHub Actions",
+        "GitLab CI",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana"
+    ],
+
+    "Big Data": [
+        "Hadoop",
+        "HDFS",
+        "Apache Spark",
+        "PySpark",
+        "Apache Kafka",
+        "Hive",
+        "Databricks"
+    ],
+
+    "Version Control": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Bitbucket"
+    ],
+
+    "Cybersecurity": [
+        "Cybersecurity",
+        "Information Security",
+        "Network Security",
+        "Ethical Hacking",
+        "Penetration Testing",
+        "OWASP",
+        "SIEM",
+        "Splunk",
+        "Wireshark",
+        "Nmap",
+        "Metasploit",
+        "Burp Suite",
+        "Kali Linux"
+    ],
+
+    "Software Testing": [
+        "Software Testing",
+        "Manual Testing",
+        "Automation Testing",
+        "Test Automation",
+        "Quality Assurance",
+        "QA",
+        "Selenium",
+        "PyTest",
+        "JUnit",
+        "TestNG",
+        "Postman",
+        "API Testing",
+        "Performance Testing"
+    ],
+
+    "Mobile Development": [
+        "Android Development",
+        "iOS Development",
+        "Flutter",
+        "React Native",
+        "Android Studio",
+        "Kotlin",
+        "Swift",
+        "Dart",
+        "Firebase"
+    ],
+
+    "Networking": [
+        "Networking",
+        "TCP/IP",
+        "Routing",
+        "Switching",
+        "Cisco",
+        "CCNA",
+        "VPN",
+        "Firewall"
+    ],
+
+    "Operating Systems": [
+        "Linux",
+        "Windows",
+        "Windows Server",
+        "Ubuntu",
+        "Unix",
+        "Bash",
+        "PowerShell"
+    ],
+
+    "UI/UX": [
+        "UI Design",
+        "UX Design",
+        "UI/UX",
+        "User Experience",
+        "Wireframing",
+        "Prototyping",
+        "Figma",
+        "Adobe XD",
+        "Sketch"
+    ],
+
+    "Project Management": [
+        "Agile",
+        "Scrum",
+        "Project Management",
+        "Product Management",
+        "Jira",
+        "Confluence",
+        "Trello"
+    ],
+
+    "Blockchain": [
+        "Blockchain",
+        "Web3",
+        "Smart Contracts",
+        "Solidity",
+        "Ethereum",
+        "Web3.js",
+        "Hardhat"
+    ],
+
+    "Game Development": [
+        "Game Development",
+        "Unity",
+        "Unreal Engine",
+        "C#",
+        "Game Design",
+        "Game Physics"
+    ]
+}
